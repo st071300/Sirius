@@ -1,0 +1,9 @@
+build
+cmake-build-debug
+cmake-build-Release
+.vscode
+.git
+.idea
+main
+source/a.out
+a.out
